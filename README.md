@@ -1,2 +1,2 @@
 # leetcode-golang
-Go语言版本的leetcode
+The problem in leetcode implemented in Golang language.
